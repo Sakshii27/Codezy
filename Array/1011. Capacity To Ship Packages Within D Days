@@ -1,4 +1,4 @@
-class Solution {
+lass Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int left = 0;
